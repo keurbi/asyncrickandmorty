@@ -5,7 +5,8 @@ interface InfoDisplayProps {}
 
 const InfoDisplay: FC<InfoDisplayProps> = () => (
   <div className={styles.InfoDisplay}>
-    InfoDisplay Component
+    <img alt="" />
+    <span>???</span>
   </div>
 );
 
